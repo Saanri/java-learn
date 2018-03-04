@@ -1,0 +1,3 @@
+2016-03-23 22:49:47 INFO  com.epam.topic2.Task3Longest:27 - findLongestWord("The quick brown fox jumped over the lazy dog")                 || 6
+2016-03-23 22:49:47 INFO  com.epam.topic2.Task3Longest:30 - findLongestWord("What is the average airspeed velocity of an unladen swallow")  || 8
+2016-03-23 22:49:47 INFO  com.epam.topic2.Task3Longest:33 - findLongestWord("What if we try a super-long word such as otorhinolaryngology") || 19

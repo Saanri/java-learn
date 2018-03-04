@@ -1,0 +1,44 @@
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:37 - ---- Input/Output matryoshka ----
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:46 - Unpack matryoshka_1 : 
+I'm null matryoushka of size 8
+I'm null matryoushka of size 7
+I'm null matryoushka of size 6
+I'm null matryoushka of size 5
+I'm null matryoushka of size 4
+I'm null matryoushka of size 3
+I'm null matryoushka of size 2
+I'm null matryoushka of size 1
+Here I'm the BlackPearl
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:46 - Unpack matryoshka_2 : 
+I'm null matryoushka of size 8
+I'm null matryoushka of size 7
+I'm null matryoushka of size 6
+I'm null matryoushka of size 5
+I'm null matryoushka of size 4
+I'm null matryoushka of size 3
+I'm null matryoushka of size 2
+I'm null matryoushka of size 1
+Here I'm the BlackPearl
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:46 - Unpack matryoshka_3 : 
+I'm null matryoushka of size 8
+I'm null matryoushka of size 7
+I'm null matryoushka of size 6
+I'm null matryoushka of size 5
+I'm null matryoushka of size 4
+I'm null matryoushka of size 3
+I'm null matryoushka of size 2
+I'm null matryoushka of size 1
+Here I'm the BlackPearl
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:49 - ---- Input/Output parking ----
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:53 - Create 6 parking place
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:58 - input Car <<H345GT>>
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:62 - input Truck <<F002NN>>
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:66 - input Bus <<B777XX>>
+2016-06-19 12:14:11 INFO  com.epam.topic8.task2.ObjectSerializator:71 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - Vehicle <<(Truck) F002NN>>
+A2 - Vehicle <<(Truck) F002NN>>
+A3 - Vehicle <<(Bus) B777XX>>
+A4 - Vehicle <<(Bus) B777XX>>
+A5 - Vehicle <<(Bus) B777XX>>
+

@@ -1,0 +1,33 @@
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:80 - I process annotations in the clazz and do logger.info with it
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:21 -    clazz has following properties:
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:22 -        - type = CLASS
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:23 -        - fileName = DocumentedClass
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:24 -        - author = Franklin Benjamin
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:25 -        - date = 01/04/1738
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:26 -        - description = This class can be documented with annotations
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:27 -        - version = 1.0
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:33 -    Fields (1):
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:39 -        (1) Field <<document>> with following properties:
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:43 -            - type = FIELD
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:44 -            - fileName = document
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:45 -            - scope = PROTECTED
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:46 -            - description = some document
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:53 -    Methods (3):
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:59 -        (1) Method <<intPrinter>> with following properties:
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:63 -            - type = METHOD
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:64 -            - fileName = intPrinter
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:65 -            - scope = PRIVATE
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:72 -            - params: int a - first argument; int b - second argument
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:73 -            - description = Prints integers
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:59 -        (2) Method <<signDocument>> with following properties:
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:63 -            - type = METHOD
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:64 -            - fileName = signDocument
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:65 -            - scope = PUBLIC
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:72 -            - params: nothing
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:73 -            - description = Prints integers
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:59 -        (3) Method <<setDocument>> with following properties:
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:63 -            - type = METHOD
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:64 -            - fileName = setDocument
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:65 -            - scope = PUBLIC
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:72 -            - params: String document - first argument
+2016-05-11 13:33:05 INFO  com.epam.topic6.task2.DocCreator:73 -            - description = Set document fileName

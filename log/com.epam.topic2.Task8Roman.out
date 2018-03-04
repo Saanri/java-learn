@@ -1,0 +1,13 @@
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:67 - convert(2)    || II
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:68 - convert(4)    || IV
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:69 - convert(12)   || XII
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:70 - convert(29)   || XXIX
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:71 - convert(44)   || XLIV
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:72 - convert(68)   || LXVIII
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:73 - convert(83)   || LXXXIII
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:74 - convert(501)  || DI
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:75 - convert(649)  || DCXLIX
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:76 - convert(798)  || DCCXCVIII
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:77 - convert(1006) || MVI
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:78 - convert(2014) || MMXIV
+2016-03-26 14:04:42 INFO  com.epam.topic2.Task8Roman:79 - convert(3999) || MMMCMXCIX

@@ -1,0 +1,3 @@
+2016-04-16 12:38:52 INFO  com.epam.topic4.task3.FirstElementTypeList:19 - В myList добавлен новый элемент с типом Integer, равный <<10>>
+2016-04-16 12:38:52 INFO  com.epam.topic4.task3.FirstElementTypeList:27 - Новый элемент с типом String не соответствует изначальному типу данных Integer
+2016-04-16 12:38:52 INFO  com.epam.topic4.task3.FirstElementTypeList:33 - В myList добавлен новый элемент с типом Integer, равный <<20>>

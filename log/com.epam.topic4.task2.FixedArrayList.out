@@ -1,0 +1,15 @@
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:18 - FixedArrayList is Empty = true
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:21 - Added new element: first element
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:23 - Size our FixedArrayList = 1
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:25 - FixedArrayList is Empty = false
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:27 - FixedArrayList contains <<new element>> = false
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:30 - Added new element: second element
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:33 - Added new element: third element
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:35 - FixedArrayList to Array: [Ljava.lang.Object;@506e1b77
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:38 - Element <<new second element>> deleted. Now size our FixedArrayList = 2
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:41 - FixedArrayList cleared. Size our FixedArrayList = 0
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:47 - FixedArrayList added all, complete. Contained:  <<new first element>> <<new second element>> <<new third element>>
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:49 - Element in FixedArrayList, with index <1>, set. Old value = new second element, new value = second element with modified
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:53 - FixedArrayList contained: <<new first element>> <<second element with modified>> <<new third element>>
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:59 - Element with index <<1>> removed. FixedArrayList contained: <<new first element>> <<new third element>>
+2016-04-14 22:26:57 INFO  com.epam.topic4.task2.FixedArrayList:65 - Add new element with index <<1>>. FixedArrayList contained: <<new first element>> <<added element>> <<new third element>>

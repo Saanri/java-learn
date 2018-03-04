@@ -1,0 +1,15 @@
+group 'java-learn'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'log4j:log4j:1.2.17'
+	testCompile 'junit:junit:4.12'
+}

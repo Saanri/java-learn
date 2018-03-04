@@ -1,0 +1,6 @@
+2016-03-24 21:05:45 INFO  com.epam.topic2.Task6AddElement:49 - add({5,6,10})                   || 21
+2016-03-24 21:05:45 INFO  com.epam.topic2.Task6AddElement:51 - add({53, 64, 10, 115})          || 242
+2016-03-24 21:05:45 INFO  com.epam.topic2.Task6AddElement:53 - add({5, 6, null})               || 11
+2016-03-24 21:05:45 INFO  com.epam.topic2.Task6AddElement:55 - add({hello , sly , fox})        || hello sly fox
+2016-03-24 21:05:45 INFO  com.epam.topic2.Task6AddElement:57 - add({hello , null, fox})        || hello fox
+2016-03-24 21:05:45 INFO  com.epam.topic2.Task6AddElement:59 - add({0.3, null, 34343.3939483}) || 34343.6939483

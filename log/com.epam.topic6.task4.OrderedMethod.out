@@ -1,0 +1,10 @@
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:52 - First method invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:57 - First method1 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:29 - another method 2 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:34 - another method 3 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:24 - another method 1 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:39 - another method 4 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:43 - unknown method 1 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:47 - unknown method 2 invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:14 - Last method invocation
+2016-05-03 21:38:24 INFO  com.epam.topic6.task4.OrderedMethod:19 - Last method1 invocation

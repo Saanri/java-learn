@@ -1,0 +1,45 @@
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:36 - Run RunnableThreads
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread7 incremented shared to 339424 and sharedSize is now : 339858
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread15 incremented shared to 412280 and sharedSize is now : 412542
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread3 incremented shared to 414183 and sharedSize is now : 414266
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread14 incremented shared to 415865 and sharedSize is now : 415924
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread1 incremented shared to 467655 and sharedSize is now : 467856
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread11 incremented shared to 475736 and sharedSize is now : 475850
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread12 incremented shared to 612511 and sharedSize is now : 612703
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread8 incremented shared to 665518 and sharedSize is now : 665565
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread0 incremented shared to 677881 and sharedSize is now : 677926
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread18 incremented shared to 780342 and sharedSize is now : 780387
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread13 incremented shared to 801530 and sharedSize is now : 801589
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread19 incremented shared to 802898 and sharedSize is now : 802898
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread5 incremented shared to 817157 and sharedSize is now : 817214
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread10 incremented shared to 862311 and sharedSize is now : 862406
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread16 incremented shared to 872577 and sharedSize is now : 872609
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread6 incremented shared to 917875 and sharedSize is now : 917920
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread17 incremented shared to 944127 and sharedSize is now : 944200
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread2 incremented shared to 965729 and sharedSize is now : 965774
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread4 incremented shared to 991131 and sharedSize is now : 991193
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:26 - Thread: RunnableThread9 incremented shared to 1000000 and sharedSize is now : 1000000
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:86 - One of the threads should increase set size till:1000000
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:39 - Run CallableThreads
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:58 - Executor service - shutdown. Result:
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread0 incremented shared to 857111 and sharedSize is now : 857111
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread1 incremented shared to 502077 and sharedSize is now : 502077
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread2 incremented shared to 598094 and sharedSize is now : 598277
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread3 incremented shared to 836819 and sharedSize is now : 836819
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread4 incremented shared to 865287 and sharedSize is now : 865287
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread5 incremented shared to 978313 and sharedSize is now : 978313
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread6 incremented shared to 356713 and sharedSize is now : 356713
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread7 incremented shared to 994219 and sharedSize is now : 994285
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread8 incremented shared to 786752 and sharedSize is now : 786752
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread9 incremented shared to 1000000 and sharedSize is now : 1000000
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread10 incremented shared to 347629 and sharedSize is now : 347629
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread11 incremented shared to 971192 and sharedSize is now : 971192
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread12 incremented shared to 647778 and sharedSize is now : 647778
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread13 incremented shared to 481458 and sharedSize is now : 481458
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread14 incremented shared to 949559 and sharedSize is now : 949559
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread15 incremented shared to 844480 and sharedSize is now : 844480
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread16 incremented shared to 606928 and sharedSize is now : 606928
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread17 incremented shared to 828871 and sharedSize is now : 828871
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread18 incremented shared to 302424 and sharedSize is now : 302424
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:62 - Thread: RunnableThread19 incremented shared to 451653 and sharedSize is now : 451653
+2016-06-22 23:10:31 INFO  com.epam.topic9.task2.Main:69 - One of the threads should increase set size till:1000000

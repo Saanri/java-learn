@@ -1,0 +1,27 @@
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:18 - Parking status:
+A1 - car with number <<К123ЕУ>>
+A2 - car with number <<Ц567ЕН>>
+A3 - car with number <<У468РИ>>
+A4 - is Empty
+A5 - is Empty
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:20 - Parking status:
+A1 - is Empty
+A2 - car with number <<Ц567ЕН>>
+A3 - car with number <<У468РИ>>
+A4 - is Empty
+A5 - is Empty
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:22 - Parking status:
+A1 - car with number <<W12388ЕУ>>
+A2 - car with number <<Ц567ЕН>>
+A3 - car with number <<У468РИ>>
+A4 - is Empty
+A5 - is Empty
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:27 - WARNING!!! Car with registration number <<Y394DD>> - Not Found
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:33 - WARNING!!! Car with registration number <<W12388ЕУ>> now parked on place <<A1>>
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:42 - ERROR!!! Not free place!
+2016-05-23 23:10:31 INFO  com.epam.topic4.task4.Parking:45 - Parking status:
+A1 - car with number <<W12388ЕУ>>
+A2 - car with number <<Ц567ЕН>>
+A3 - car with number <<У468РИ>>
+A4 - car with number <<Е777КА>>
+A5 - car with number <<В163УК>>

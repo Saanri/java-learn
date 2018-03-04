@@ -1,0 +1,26 @@
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:75 - Create song list for download:
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-Scorpions_-_Still_Loving_You_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-scorpions_-_I_m_still_lovin_you_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-04._No_One_Like_You_Bad_for_Good_The_Very_Best_of_Scorpions_-_2002_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-Wind_Of_Change_Kultovaya_pesnya_gruppy_Scorpions_Veter_perepen_Wind_of_Change_pokorila_serdca_sov_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-Humanity_Scorpions_piano_cover_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-Humanity_Scorpions_piano_cover_(mp3.cc).mp3>> (1) save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-Scorpions_-_When_the_smoke_is_going_down_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:88 - Song <<Scorpions-Scorpions_-_Maybe_I_Maybe_You_(mp3.cc).mp3>>  save in download List.
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:93 - Songs download. Process start!
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-Scorpions_-_When_the_smoke_is_going_down_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-Wind_Of_Change_Kultovaya_pesnya_gruppy_Scorpions_Veter_perepen_Wind_of_Change_pokorila_serdca_sov_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-Humanity_Scorpions_piano_cover_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-04._No_One_Like_You_Bad_for_Good_The_Very_Best_of_Scorpions_-_2002_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-Humanity_Scorpions_piano_cover_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-scorpions_-_I_m_still_lovin_you_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-Scorpions_-_Maybe_I_Maybe_You_(mp3.cc).mp3
+2016-06-19 13:05:47 INFO  com.epam.topic8.task3.Downloader:95 - Start download: Scorpions-Scorpions_-_Still_Loving_You_(mp3.cc).mp3
+2016-06-19 13:05:49 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-Humanity_Scorpions_piano_cover_(mp3.cc).mp3(1)>>
+2016-06-19 13:05:57 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-Wind_Of_Change_Kultovaya_pesnya_gruppy_Scorpions_Veter_perepen_Wind_of_Change_pokorila_serdca_sov_(mp3.cc).mp3>>
+2016-06-19 13:05:58 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-Scorpions_-_Maybe_I_Maybe_You_(mp3.cc).mp3>>
+2016-06-19 13:05:58 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-Humanity_Scorpions_piano_cover_(mp3.cc).mp3>>
+2016-06-19 13:05:59 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-Scorpions_-_When_the_smoke_is_going_down_(mp3.cc).mp3>>
+2016-06-19 13:05:59 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-Scorpions_-_Still_Loving_You_(mp3.cc).mp3>>
+2016-06-19 13:06:01 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-scorpions_-_I_m_still_lovin_you_(mp3.cc).mp3>>
+2016-06-19 13:06:02 INFO  com.epam.topic8.task3.Downloader:43 - Song downloaded - <<Scorpions-04._No_One_Like_You_Bad_for_Good_The_Very_Best_of_Scorpions_-_2002_(mp3.cc).mp3>>

@@ -1,0 +1,4 @@
+2016-03-23 22:23:04 INFO  com.epam.topic2.Task1Factorial:26 - factorial(0)    || 1
+2016-03-23 22:23:04 INFO  com.epam.topic2.Task1Factorial:27 - factorial(5)    || 120
+2016-03-23 22:23:04 INFO  com.epam.topic2.Task1Factorial:28 - factorial(10)   || 3628800
+2016-03-23 22:23:04 INFO  com.epam.topic2.Task1Factorial:29 - factorial(20)   || 2432902008176640000

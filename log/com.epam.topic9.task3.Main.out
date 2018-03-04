@@ -1,0 +1,223 @@
+2016-08-06 22:18:19 INFO  com.epam.topic9.task3.Main:36 - Create 50 parking place
+2016-08-06 22:18:20 INFO  com.epam.topic9.task3.Main:40 - Create parking with 50 place, and 3 gates.
+2016-08-06 22:18:21 INFO  com.epam.topic9.task3.Main:45 - Create car plate list. Count plates: 15
+2016-08-06 22:18:22 INFO  com.epam.topic9.task3.Main:50 - Create track plate list. Count plates: 9
+2016-08-06 22:18:23 INFO  com.epam.topic9.task3.Main:55 - Create bus plate list. Count plates: 6
+2016-08-06 22:18:24 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) WKB1N
+2016-08-06 22:18:25 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) HJDGB
+2016-08-06 22:18:25 INFO  com.epam.topic9.task3.Main:75 - Executor service - shutdown. Result:
+2016-08-06 22:18:25 INFO  com.epam.topic9.task3.Main:49 - Bus parking thread: Input vehicle: (Bus) CJZ3U
+2016-08-06 22:18:25 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) WNWCF
+2016-08-06 22:18:25 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) CNVHO
+2016-08-06 22:18:26 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) HOINM
+2016-08-06 22:18:26 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) MIAD6
+2016-08-06 22:18:26 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) RKC2S
+2016-08-06 22:18:26 INFO  com.epam.topic9.task3.Main:49 - Bus parking thread: Input vehicle: (Bus) F3H0U
+2016-08-06 22:18:27 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) UOXV5
+2016-08-06 22:18:27 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) JMD0Z
+2016-08-06 22:18:27 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) 8QOA8
+2016-08-06 22:18:28 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) 7DSP3
+2016-08-06 22:18:28 INFO  com.epam.topic9.task3.Main:49 - Bus parking thread: Input vehicle: (Bus) 93YH7
+2016-08-06 22:18:28 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) 3MQT4
+2016-08-06 22:18:28 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) CFF5H
+2016-08-06 22:18:29 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) 4XQ10
+2016-08-06 22:18:29 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) IHTIW
+2016-08-06 22:18:29 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) TJY7Q
+2016-08-06 22:18:29 INFO  com.epam.topic9.task3.Main:49 - Bus parking thread: Input vehicle: (Bus) 7BOVT
+2016-08-06 22:18:30 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) 61K9Q
+2016-08-06 22:18:30 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) Y04W7
+2016-08-06 22:18:30 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) NRY3Q
+2016-08-06 22:18:31 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) GKZN9
+2016-08-06 22:18:31 INFO  com.epam.topic9.task3.Main:49 - Bus parking thread: Input vehicle: (Bus) SF4H6
+2016-08-06 22:18:31 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) RG4JY
+2016-08-06 22:18:31 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) XTAGA
+2016-08-06 22:18:32 INFO  com.epam.topic9.task3.Main:49 - Car parking thread: Input vehicle: (Car) R8MBQ
+2016-08-06 22:18:32 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) HOINM
+2016-08-06 22:18:32 INFO  com.epam.topic9.task3.Main:49 - Truck parking thread: Input vehicle: (Truck) HO6A7
+2016-08-06 22:18:32 INFO  com.epam.topic9.task3.Main:53 - Bus parking thread: Input vehicle exception: Exception (inputVehicle): Not free places. Try again after some time
+2016-08-06 22:18:33 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) 4XQ10
+2016-08-06 22:18:33 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) IHTIW
+2016-08-06 22:18:33 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) RKC2S
+2016-08-06 22:18:34 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) GKZN9
+2016-08-06 22:18:34 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) HJDGB
+2016-08-06 22:18:34 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) NRY3Q
+2016-08-06 22:18:35 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) RG4JY
+2016-08-06 22:18:35 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) 7DSP3
+2016-08-06 22:18:35 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) CFF5H
+2016-08-06 22:18:36 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) UOXV5
+2016-08-06 22:18:36 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) WNWCF
+2016-08-06 22:18:36 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) 8QOA8
+2016-08-06 22:18:37 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) 3MQT4
+2016-08-06 22:18:37 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) MIAD6
+2016-08-06 22:18:37 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) XTAGA
+2016-08-06 22:18:38 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) Y04W7
+2016-08-06 22:18:38 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) JMD0Z
+2016-08-06 22:18:38 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) TJY7Q
+2016-08-06 22:18:39 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) 61K9Q
+2016-08-06 22:18:39 INFO  com.epam.topic9.task3.Main:71 - Car parking thread: Output vehicle: (Car) R8MBQ
+2016-08-06 22:18:39 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) HO6A7
+2016-08-06 22:18:40 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) CNVHO
+2016-08-06 22:18:41 INFO  com.epam.topic9.task3.Main:71 - Truck parking thread: Output vehicle: (Truck) WKB1N
+2016-08-06 22:18:42 INFO  com.epam.topic9.task3.Main:79 - Parking places:
+A0 - is Empty
+A1 - is Empty
+A2 - is Empty
+A3 - Vehicle <<(Bus) CJZ3U>>
+A4 - Vehicle <<(Bus) CJZ3U>>
+A5 - Vehicle <<(Bus) CJZ3U>>
+A6 - is Empty
+A7 - is Empty
+A8 - is Empty
+A9 - is Empty
+A10 - is Empty
+A11 - is Empty
+A12 - is Empty
+A13 - Vehicle <<(Bus) F3H0U>>
+A14 - Vehicle <<(Bus) F3H0U>>
+A15 - Vehicle <<(Bus) F3H0U>>
+A16 - is Empty
+A17 - is Empty
+A18 - is Empty
+A19 - is Empty
+A20 - is Empty
+A21 - Vehicle <<(Bus) 93YH7>>
+A22 - Vehicle <<(Bus) 93YH7>>
+A23 - Vehicle <<(Bus) 93YH7>>
+A24 - is Empty
+A25 - is Empty
+A26 - is Empty
+A27 - is Empty
+A28 - is Empty
+A29 - is Empty
+A30 - is Empty
+A31 - Vehicle <<(Bus) 7BOVT>>
+A32 - Vehicle <<(Bus) 7BOVT>>
+A33 - Vehicle <<(Bus) 7BOVT>>
+A34 - is Empty
+A35 - is Empty
+A36 - is Empty
+A37 - is Empty
+A38 - is Empty
+A39 - Vehicle <<(Bus) SF4H6>>
+A40 - Vehicle <<(Bus) SF4H6>>
+A41 - Vehicle <<(Bus) SF4H6>>
+A42 - is Empty
+A43 - is Empty
+A44 - is Empty
+A45 - is Empty
+A46 - is Empty
+A47 - is Empty
+A48 - is Empty
+A49 - is Empty
+
+2016-08-06 22:18:42 INFO  com.epam.topic9.task3.Main:79 - Parking places:
+A0 - Vehicle <<(Truck) WKB1N>>
+A1 - Vehicle <<(Truck) WKB1N>>
+A2 - is Empty
+A3 - Vehicle <<(Bus) CJZ3U>>
+A4 - Vehicle <<(Bus) CJZ3U>>
+A5 - Vehicle <<(Bus) CJZ3U>>
+A6 - is Empty
+A7 - Vehicle <<(Truck) CNVHO>>
+A8 - Vehicle <<(Truck) CNVHO>>
+A9 - is Empty
+A10 - is Empty
+A11 - is Empty
+A12 - is Empty
+A13 - Vehicle <<(Bus) F3H0U>>
+A14 - Vehicle <<(Bus) F3H0U>>
+A15 - Vehicle <<(Bus) F3H0U>>
+A16 - is Empty
+A17 - is Empty
+A18 - is Empty
+A19 - is Empty
+A20 - is Empty
+A21 - Vehicle <<(Bus) 93YH7>>
+A22 - Vehicle <<(Bus) 93YH7>>
+A23 - Vehicle <<(Bus) 93YH7>>
+A24 - is Empty
+A25 - is Empty
+A26 - is Empty
+A27 - is Empty
+A28 - is Empty
+A29 - is Empty
+A30 - is Empty
+A31 - Vehicle <<(Bus) 7BOVT>>
+A32 - Vehicle <<(Bus) 7BOVT>>
+A33 - Vehicle <<(Bus) 7BOVT>>
+A34 - is Empty
+A35 - is Empty
+A36 - is Empty
+A37 - is Empty
+A38 - is Empty
+A39 - Vehicle <<(Bus) SF4H6>>
+A40 - Vehicle <<(Bus) SF4H6>>
+A41 - Vehicle <<(Bus) SF4H6>>
+A42 - is Empty
+A43 - is Empty
+A44 - is Empty
+A45 - is Empty
+A46 - is Empty
+A47 - is Empty
+A48 - is Empty
+A49 - is Empty
+
+2016-08-06 22:18:42 INFO  com.epam.topic9.task3.Main:58 - Bus parking thread: Input again vehicle: (Bus) Z03VS
+2016-08-06 22:18:44 INFO  com.epam.topic9.task3.Main:71 - Bus parking thread: Output vehicle: (Bus) 93YH7
+2016-08-06 22:18:45 INFO  com.epam.topic9.task3.Main:71 - Bus parking thread: Output vehicle: (Bus) Z03VS
+2016-08-06 22:18:47 INFO  com.epam.topic9.task3.Main:71 - Bus parking thread: Output vehicle: (Bus) F3H0U
+2016-08-06 22:18:48 INFO  com.epam.topic9.task3.Main:71 - Bus parking thread: Output vehicle: (Bus) 7BOVT
+2016-08-06 22:18:50 INFO  com.epam.topic9.task3.Main:71 - Bus parking thread: Output vehicle: (Bus) CJZ3U
+2016-08-06 22:18:51 INFO  com.epam.topic9.task3.Main:71 - Bus parking thread: Output vehicle: (Bus) SF4H6
+2016-08-06 22:18:53 INFO  com.epam.topic9.task3.Main:79 - Parking places:
+A0 - is Empty
+A1 - is Empty
+A2 - is Empty
+A3 - is Empty
+A4 - is Empty
+A5 - is Empty
+A6 - is Empty
+A7 - is Empty
+A8 - is Empty
+A9 - is Empty
+A10 - is Empty
+A11 - is Empty
+A12 - is Empty
+A13 - is Empty
+A14 - is Empty
+A15 - is Empty
+A16 - is Empty
+A17 - is Empty
+A18 - is Empty
+A19 - is Empty
+A20 - is Empty
+A21 - is Empty
+A22 - is Empty
+A23 - is Empty
+A24 - is Empty
+A25 - is Empty
+A26 - is Empty
+A27 - is Empty
+A28 - is Empty
+A29 - is Empty
+A30 - is Empty
+A31 - is Empty
+A32 - is Empty
+A33 - is Empty
+A34 - is Empty
+A35 - is Empty
+A36 - is Empty
+A37 - is Empty
+A38 - is Empty
+A39 - is Empty
+A40 - is Empty
+A41 - is Empty
+A42 - is Empty
+A43 - is Empty
+A44 - is Empty
+A45 - is Empty
+A46 - is Empty
+A47 - is Empty
+A48 - is Empty
+A49 - is Empty
+

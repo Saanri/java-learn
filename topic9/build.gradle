@@ -1,0 +1,17 @@
+group 'java-learn'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'log4j:log4j:1.2.17'
+    compile group: 'org.jsoup', name: 'jsoup', version: '1.7.2'
+    compile project(":topic7")
+    compile project(":topic8")
+}

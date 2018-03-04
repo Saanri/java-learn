@@ -1,0 +1,51 @@
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:46 - User <<Иван>> send message from <<Петр>>: Петр, Привет!
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:46 - User <<Иван>> send message from <<Петр>>: Смотри что я нашел!!!
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:35 - Class <<GifImage>> info: 
+Class extend <<Image>> which the <<implements Downloadable>>, and have:
+    <<public String>> method: getImageName 
+    <<public final void>> method: preview, download, delete 
+    <<private void>> method: sendLogCreate 
+    <<public static void>> method: logInfoClass
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:23 - Class <<JpegImage>> info: 
+Class extend <<Image>> which the <<implements Downloadable>>, and have:
+    <<public String>> method: getImageName 
+    <<private void>> method: sendLogCreate 
+    <<public static void>> method: logInfoClass
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:30 - Class <<Video>> info: 
+Class extend <<MediaContent>> which the <<implements Streamable>>, and have:
+    <<String>> property: videoName 
+    <<public void>> method: setVideoName 
+    <<public String>> method: getVideoName 
+    <<private void>> method: sendLogCreate 
+    <<public static void>> method: logInfoClass
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - Class <<Audio>> info: 
+Class extend <<MediaContent>> which the <<implements Streamable>>, and have:
+    <<String>> property: groupName, songName 
+    <<public void>> method: setGroupName, setSongName 
+    <<public String>> method: getGroupName, getSongName 
+    <<private void>> method: sendLogCreate 
+    <<public static void>> method: logInfoClass
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:31 - GIF image create: Cool_Image.GIF
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:19 - JPG image create: Cool_Image.JPG
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:26 - Video create: file fileName - Cool_Video.AVI; video fileName - Cool video
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:38 - Audio create: file fileName - Cool_Audio.mp3; group fileName fileName - Cool group; song fileName - Cool song
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:19 - GIF image preview.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:17 - Image preview.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:24 - Media file <<Cool_Video.AVI>> played.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:24 - Media file <<Cool_Audio.mp3>> played.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:46 - User <<Петр>> send message from <<Иван>>: И правда круто! Загружу все себе.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:23 - Download GIF image, complete.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:22 - Download image, complete.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:29 - Download media file <<Cool_Video.AVI>>, complete.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:29 - Download media file <<Cool_Audio.mp3>>, complete.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:111 - User <<Петр>> send new post. Title - Классный контент!
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - User <<Василий>> commented on the post: Спасибо!
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - User <<Николай>> commented on the post: Норм.
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - User <<Иван>> commented on the post: Могу загрузить еще!
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - User <<Сергей>> commented on the post: Загружай!
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:31 - GIF image create: New_Cool_Image.GIF
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:19 - JPG image create: New_Cool_Image.JPG
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:26 - Video create: file fileName - New_Cool_Video.AVI; video fileName - New Cool video
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:38 - Audio create: file fileName - New_Cool_Audio.mp3; group fileName fileName - New Cool group; song fileName - New Cool song
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - User <<Иван>> commented on the post: загрузил...
+2016-04-03 15:28:13 INFO  com.epam.topic3.network.Message:42 - User <<Сергей>> commented on the post: Круть!

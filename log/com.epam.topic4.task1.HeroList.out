@@ -1,0 +1,8 @@
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:14 - Generated list: [Нейтон Тимофеев, Евгений Альгрен, Оби-Ван Андерсон, Иван Кеноби, Луи Матроскин, Кот Трошкин, Тонни Сопрано]
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:66 - Process...: Из списка вычеркнут <<Евгений Альгрен>>
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:66 - Process...: Из списка вычеркнут <<Иван Кеноби>>
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:66 - Process...: Из списка вычеркнут <<Кот Трошкин>>
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:58 - Process...: Из списка вычеркнут <<Нейтон Тимофеев>>
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:66 - Process...: Из списка вычеркнут <<Луи Матроскин>>
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:58 - Process...: Из списка вычеркнут <<Оби-Ван Андерсон>>
+2016-04-18 13:27:06 INFO  com.epam.topic4.task1.HeroList:15 - Excluded list: [Тонни Сопрано]

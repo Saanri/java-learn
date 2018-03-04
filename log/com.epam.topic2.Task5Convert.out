@@ -1,0 +1,4 @@
+2016-03-25 18:16:37 INFO  com.epam.topic2.Task5Convert:22 - convert("Dolce & Gabbana")            || Dolce &amp; Gabbana
+2016-03-25 18:16:37 INFO  com.epam.topic2.Task5Convert:24 - convert("Hamburgers < Pizza < Tacos") || Hamburgers &lt; Pizza &lt; Tacos
+2016-03-25 18:16:37 INFO  com.epam.topic2.Task5Convert:26 - convert("Shindler's List")            || Shindler&apos;s List
+2016-03-25 18:16:37 INFO  com.epam.topic2.Task5Convert:28 - convert("<>")                         || &lt;&gt;

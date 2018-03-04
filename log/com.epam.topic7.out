@@ -1,0 +1,12 @@
+2016-05-29 18:01:18 INFO  com.epam.topic7:16 - Check <<toReverseList>>
+2016-05-29 18:01:18 INFO  com.epam.topic7:21 -        1. List created: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+2016-05-29 18:01:18 INFO  com.epam.topic7:26 -        2. List reverted: [9, 8, 7, 6, 5, 4, 3, 2, 1]
+2016-05-29 18:01:18 INFO  com.epam.topic7:28 - Check <<copyGreaterNumbers>>
+2016-05-29 18:01:18 INFO  com.epam.topic7:29 -        1. Using list :  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+2016-05-29 18:01:18 INFO  com.epam.topic7:30 -        2. List modified: [6, 7, 8, 9]
+2016-05-29 18:01:18 INFO  com.epam.topic7:32 - Check <<setValues>>
+2016-05-29 18:01:18 INFO  com.epam.topic7:52 -        1. List with map, created:  [{1=one, 2=two, 3=free}, {1=a, 2=b, 3=c}, {1=I, 2=II, 3=III}]
+2016-05-29 18:01:18 INFO  com.epam.topic7:53 -        2. Method <<setValues>> returned:  [two, b, II]
+2016-05-29 18:01:18 INFO  com.epam.topic7:54 -        3. List modified:  [{1=one, 2=replaced, 3=free}, {1=a, 2=replaced, 3=c}, {1=I, 2=replaced, 3=III}]
+2016-05-29 18:01:18 INFO  com.epam.topic7:56 - Check <<createObject>>
+2016-05-29 18:01:18 INFO  com.epam.topic7:57 -        1. Object created:  class java.lang.String

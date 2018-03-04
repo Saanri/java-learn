@@ -1,0 +1,85 @@
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:19 - Create 5 parking place
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:25 - input Car <<H345GT>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:27 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - is Empty
+A2 - is Empty
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:31 - input Truck <<F002NN>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:33 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - Vehicle <<(Truck) F002NN>>
+A2 - Vehicle <<(Truck) F002NN>>
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:35 - output Truck <<F002NN>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:37 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - is Empty
+A2 - is Empty
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:39 - input Truck <<F002NN>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:41 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - Vehicle <<(Truck) F002NN>>
+A2 - Vehicle <<(Truck) F002NN>>
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:43 - output Car <<H345GT>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:45 - Parking places:
+A0 - is Empty
+A1 - Vehicle <<(Truck) F002NN>>
+A2 - Vehicle <<(Truck) F002NN>>
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:49 - input Bus <<B777XX>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:53 - Exception (inputVehicle): Not free places
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:55 - Parking places:
+A0 - is Empty
+A1 - Vehicle <<(Truck) F002NN>>
+A2 - Vehicle <<(Truck) F002NN>>
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:57 - input Car <<H345GT>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:59 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - Vehicle <<(Truck) F002NN>>
+A2 - Vehicle <<(Truck) F002NN>>
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:61 - output Truck <<F002NN>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:63 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - is Empty
+A2 - is Empty
+A3 - is Empty
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:65 - input Bus <<B777XX>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:67 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - Vehicle <<(Bus) B777XX>>
+A2 - Vehicle <<(Bus) B777XX>>
+A3 - Vehicle <<(Bus) B777XX>>
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:71 - input new Car with already name <<H345GT>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:75 - Exception (inputVehicle): Vehicle with name <<H345GT>>, already parked
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:77 - Parking places:
+A0 - Vehicle <<(Car) H345GT>>
+A1 - Vehicle <<(Bus) B777XX>>
+A2 - Vehicle <<(Bus) B777XX>>
+A3 - Vehicle <<(Bus) B777XX>>
+A4 - is Empty
+
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:81 - output Car <<C409HH>>
+2016-06-22 22:07:01 INFO  com.epam.topic7.task2.Parking:85 - Exception (outputVehicle): Vehicle not found
